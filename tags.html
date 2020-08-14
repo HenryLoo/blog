@@ -8,14 +8,12 @@ title: Tags
     <h1 class="page-title" itemprop="name headline">All Tags</h1>
     <div itemprop="articleBody">
       <ul class="posts">
-        {% assign tags = site.posts | all_tags %}
-          {% for tag in tags %}
-            {% assign tag_slug = tag['name'] | slugify: "raw" %}
+          {% for tag in site.tags %}
             <li itemscope itemtype="http://schema.org/BlogPosting">
-              <a href="{{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}" itemprop="url">
+              <a href="{{ site.baseurl | append: "/tags/" | append: tag['tag-name'] | append: "/" }}" itemprop="url">
                 <div class="p-wrap">
                   <article class="inner">
-                    <p itemprop="name headline">#{{ tag['name'] }} ({{ tag['count'] }})</p>
+                    <p itemprop="name headline">#{{ tag['tag-name'] }}</p>
                   </article>
                 </div>
               </a>
