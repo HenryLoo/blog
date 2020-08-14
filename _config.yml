@@ -1,53 +1,42 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Title of your blog; shows in the header
+name: "henry plays vidya"
 
-title: Henry's Gaming
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Playing old games and having fun.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://henryloo.github.io.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:  henryloo
+# Description of your content (will only be used on Google Search)
+description: "clearing old games and having fun"
 
-# Build settings
-theme: minima
+# Your name. Will show in your footer + sidebar
+author: "Henry Loo"
+
+url: "http://henryloo.github.io"
+baseurl: "/blog"
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
+author-bio: "I'm posting my thoughts on games that I've cleared."
+
+# Social Accounts (mine, as placeholders)
+
+twitter:
+github: henryloo
+dribbble:
+instagram:
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+ga_domain:
+ga_tracking_id:
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
