@@ -12,6 +12,16 @@ layout: default
       </h5>
     </div>
     <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+    <div class="feat">
+        {% for tag in page.tags %}
+            {% assign tag_slug = tag | slugify: "raw" %}
+            <a class="page-date"
+              href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+              rel="category tag">
+              #{{ tag }}
+            </a>
+        {% endfor %}
+    </div>
     <div itemprop="articleBody">
       {{ content }}
     </div>

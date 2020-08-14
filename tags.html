@@ -1,0 +1,27 @@
+---
+layout: default
+title: Tags
+---
+
+<section class="single-wrap">
+  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
+    <h1 class="page-title" itemprop="name headline">All Tags</h1>
+    <div itemprop="articleBody">
+      <ul class="posts">
+        {% assign tags = site.posts | all_tags %}
+          {% for tag in tags %}
+            {% assign tag_slug = tag['name'] | slugify: "raw" %}
+            <li itemscope itemtype="http://schema.org/BlogPosting">
+              <a href="{{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}" itemprop="url">
+                <div class="p-wrap">
+                  <article class="inner">
+                    <p itemprop="name headline">#{{ tag['name'] }} ({{ tag['count'] }})</p>
+                  </article>
+                </div>
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+    </div>
+  </article>
+</section>

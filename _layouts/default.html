@@ -29,6 +29,12 @@
           <p>{{ site.author-bio }}</p>
       </div>
       <nav>
+        <h6>Pages</h6>
+        <ul>
+          <li><a href="{{ site.baseurl | split:'/' | join:'/' | append:'/'  }}tags">Filter Posts By Tag</a></li>
+        </ul>
+      </nav>
+      <nav>
         <h6>Follow me on</h6>
         <ul>
           {% if site.twitter %}

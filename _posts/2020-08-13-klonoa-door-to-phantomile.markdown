@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Klonoa: Door to Phantomile"
-categories: game-impressions
 tags: ps1
 ---
 
-{% include youtubePlayer.html id="wGEADswloqk?start=247" %}
+{% include youtube_player.html id="wGEADswloqk?start=247" %}
 
 # Gameplay
 - **☑ (Almost) always fun to play**
