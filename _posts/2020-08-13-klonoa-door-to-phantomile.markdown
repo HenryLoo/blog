@@ -4,7 +4,8 @@ title:  "Klonoa: Door to Phantomile"
 categories: game-impressions
 tags: ps1
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wGEADswloqk?start=247" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include youtubePlayer.html id="wGEADswloqk?start=247" %}
 
 # Gameplay
 - **☑ (Almost) always fun to play**
