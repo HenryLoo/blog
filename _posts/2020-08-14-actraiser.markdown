@@ -7,13 +7,6 @@ tags: snes
 {% include youtube_player.html id="iJTnHa9aWiA?start=1926" %}
 
 # Gameplay
-- ☐ (Almost) always fun to play
-- **☑ Mostly engaging to play**
-- ☐ Mostly boring to play
-- ☐ Frustrating/annoying to play
-
----
-
 **Genre: 2D side-scrolling platformer, city builder/simulation**
 
 For the platforming sections, controls can feel clunky if you don't know specifically how the player character's movement is limited.
@@ -34,13 +27,6 @@ Most bosses were fairly easy, given that I could cheese through a large portion 
 The simulation sections were quite engaging, despite its repetitive actions. The city-building mechanics were not difficult to grasp. From what I've read, in the Japanese version, building progress is 4 times slower than in the North American version. This didn't appear to make the game too grindy for me. I genuinely enjoyed reading the different townspeople's concerns.
 
 # Visuals
-- **☑ Very nice to look at**
-- ☐ There are some good designs
-- ☐ Not very distinct, but it works
-- ☐ Noisy to look at and/or visuals hurt the play experience
-
----
-
 The game does a good job at distinguishing the background from the foreground for the platforming sections. The background sprites are generally desaturated in colour, while the foreground sprites are vibrant.
 
 Destroyable objects and power-ups are distinctly recognizable. Boss designs are appropriately menacing. I especially liked [the scene in Death Heim](https://www.youtube.com/watch?v=H3unRfRct8o) with the ring of demonic heads surrounding the player from above.
@@ -50,13 +36,6 @@ The simulation sections provide a clear overworld view of the cities. You can ea
 Any buildings or roads that you construct are also shown during [the descent transitions](https://www.youtube.com/watch?v=UHyJH3GPIsA) before each platforming level. I thought this was a really neat visual effect.
 
 # Audio
-- **☑ Very enjoyable to listen to (both music and sfx)**
-- ☐ There are some good tunes
-- ☐ Nothing stands out
-- ☐ The music/sound design hurts the play experience
-
----
-
 Sound effects are serviceable. Attack sounds sometimes cut out for some reason.
 
 The music in this game is amazing. Yuzo Koshiro made some extremely memorable tunes for ActRaiser's soundtrack. My favourite track is the [Fillmore theme](https://www.youtube.com/watch?v=MxCJJxoWwII).
@@ -64,10 +43,8 @@ The music in this game is amazing. Yuzo Koshiro made some extremely memorable tu
 # Conclusion
 **Total Playtime: 12.5 hours**
 
-ActRaiser may be a bit difficult to pick up due to its difficulty. However, the North American version may be a viable alternative if this is an issue.
+ActRaiser may be a bit difficult to pick up due to the difficulty of the platforming sections. However, the North American version may be a viable alternative if this is an issue. Once you get used to the somewhat clunky controls, the game feels very rewarding to play (especially when you defeat the bosses).
 
 The unique combination of genres makes the game interesting to play. I found myself engrossed in roleplaying the deity while serving the townspeople. If you're like me and you become too invested in the roleplaying, you may actually face moral dilemmas throughout the game (should I burn down these people's houses to make room for better technology?).
 
 If anything, I would give it look just for the music alone.
-
->**Recommended**
