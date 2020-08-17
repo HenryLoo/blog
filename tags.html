@@ -3,23 +3,24 @@ layout: default
 title: Tags
 ---
 
-<section class="single-wrap">
-  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
-    <h1 class="page-title" itemprop="name headline">All Tags</h1>
-    <div itemprop="articleBody">
-      <ul class="posts">
-          {% for tag in site.tags %}
-            <li itemscope itemtype="http://schema.org/BlogPosting">
-              <a href="{{ site.baseurl | append: "/tags/" | append: tag['tag-name'] | append: "/" }}" itemprop="url">
-                <div class="p-wrap">
-                  <article class="inner">
-                    <p itemprop="name headline">#{{ tag['tag-name'] }}</p>
-                  </article>
-                </div>
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-    </div>
-  </article>
-</section>
+<div id="home">
+  <div class="single-wrap">
+    <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
+      <h1 class="page-title" itemprop="name headline">All Tags</h1>
+    </article>
+  </div>
+
+  <ul class="posts">
+    {% for tag in site.tags %}
+    <li itemscope itemtype="http://schema.org/BlogPosting">
+      <a href="{{ site.baseurl | append: "/tags/" | append: tag['tag-name'] | append: "/" }}" itemprop="url">
+        <div class="p-wrap">
+          <article class="inner">
+            <p itemprop="name headline">#{{ tag['tag-name'] }}</p>
+          </article>
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
