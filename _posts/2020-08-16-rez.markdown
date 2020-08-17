@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Rez"
+tags: dc
+---
+
+{% include youtube_player.html id="wff2ouHmazE?start=55" %}
+
+# Gameplay
+**Genre: musical rail shooter**
+
+You fly around as an abstract-looking character in a limited area while shooting other abstract-shaped enemies. Being a rail shooter, your perspective is locked to a fixed camera that automatically progresses. Holding down the fire button allows you to lock onto up to 8 targets. Releasing the fire button will unleash shots in succession, in the same order that they were locked onto.
+
+Occasionally, there are power-ups that you can pick up by shooting. These include "progress" and "overdrive" items. Shooting "progress" items will increase your progress gauge. When the progress gauge is full, you will acquire a new form. Each form allows you to take an additional hit from enemies, in which your form downgrades with each hit you take. The "overdrive" mechanic provides you with a short duration of invincibility while repeatedly firing at all enemies on the screen. This is similar to your typical "bomb" in a STG. Forms and overdrives carry over to subsequent levels if you don't game over.
+
+There are 5 areas in the game, which each level being unlocked in order. Area 5 is unlocked when you acquire 100% analyzation in areas 1-4. Areas 1-4 consist of 10 "layers" or sub-areas. You progress through each layer by shooting down password protectors that appear during gameplay. After the 10th layer, you fight that area's boss.
+
+I found the bosses to be pretty easy. With the exception of area 3's boss, I defeated area 1, 3, 4's bosses in one blind attempt. The third phase of area 3's boss was a bit tricky for me, since I found the revolving enemy hitboxes difficult to pinpoint due to the camera's perspective.
+
+Area 5 was surprisingly much longer in duration than the other 4 levels. The game suddenly drops some obscure lore throughout the level, which I found to be amusing. The end of the area consists of a boss rush of area 1-4's bosses, followed by a multi-phase final boss. You're automatically given 7 forms from the beginning of the boss rush encounter, so there is plenty of room for error. Once again, I struggled with area 3's boss. The actual final boss was pretty straightforward as well, but the long length of the entire fight and the thought of having to redo the entire 20+ minutes of the beginning of area 5 kept the stakes high.
+
+# Visuals
+There are plenty of abstract shapes. The game's aesthetic aims for a low-poly, high contrast, wireframe look. It definitely looks unique.
+
+The high contrast also helps to improve clarity with distinguishing between objects and backgrounds.
+
+# Audio
+This is the main selling point of Rez. Each area has its own fairly long electronic track. Personally, I didn't find the music to be "memorable" in the sense of having catchy melodies.
+
+However, the music does an excellent job at keeping the player excited throughout gameplay. Every shot that fires plays a sound effect on beat with the background music. The music also appears to dynamically adjust with the action, ramping up in intensity as things get more hectic.
+
+Maybe I didn't give the music a long enough listen for the tunes to feel memorable, since the game was pretty short. But from what I've remembered feeling during my time with the game, the music absolutely enhanced my enjoyment.
+
+# Conclusion
+**Total Playtime: 3 hours**
+
+I had fun playing Rez. The music is definitely something I should go back to give another listen to.
+
+It's a very short game, so don't expect to be pulling too many hours of entertainment from it.
+
+But the game never overstays its welcome, so I'd say these were 3 hours well spent.
