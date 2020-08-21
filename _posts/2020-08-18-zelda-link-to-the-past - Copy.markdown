@@ -32,7 +32,7 @@ Sound effects are used really well to convey certain game mechanics. For example
 The soundtrack also holds some good melodies. This includes the iconic Zelda overworld theme.
 However, I don't hold any nostalgia for the Zelda series, so this theme didn't particularly stick with me.
 
-Rather, my favourite tracks were the (Dark World overworld theme)[https://www.youtube.com/watch?v=BStjuHfP238] and the (Dark World Death Mountain theme)[https://www.youtube.com/watch?v=-k2SPiGAs5A].
+Rather, my favourite tracks were the [Dark World overworld theme](https://www.youtube.com/watch?v=BStjuHfP238) and the [Dark World Death Mountain theme](https://www.youtube.com/watch?v=-k2SPiGAs5A).
 
 # Conclusion
 **Total Playtime: 15.5 hours**
