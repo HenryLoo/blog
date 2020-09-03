@@ -36,7 +36,7 @@ Background music ranges from eerie to tense. Even the calmer/ambient tunes are s
 All dialogue is fully voiced. The English voice-acting is mostly decent. You'll either love it or hate it.
 
 # Conclusion
-**Total Playtime: 10 hours**
+**Total Playtime: 11 hours**
 
 I have plenty of nostalgia for Metal Gear Solid, but it wasn't until this playthrough that I truly dove into it in detail. I took as long as I could to explore and read/watch codec conversations.
 
